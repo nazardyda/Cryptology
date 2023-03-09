@@ -1,0 +1,12 @@
+Frequency table for Ukrainian language:
+а: 3
+д: 2
+е: 1
+з: 1
+и: 1
+й: 1
+н: 1
+р: 1
+х: 1
+я: 1
+Ukrainian deviation: 0.029135746606334837

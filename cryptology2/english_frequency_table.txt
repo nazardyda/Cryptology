@@ -1,0 +1,11 @@
+Frequency table for English language:
+a: 3
+d: 2
+h: 1
+i: 2
+m: 1
+n: 1
+r: 1
+y: 1
+z: 1
+English deviation: 0.026060683760683753
